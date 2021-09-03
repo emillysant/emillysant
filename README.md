@@ -1,17 +1,9 @@
 ### Hi there 👋
 
-emillysant/emillysant is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-🌱 I’m currently learning ... APIs, React, Node, javascript
-
-👯 I’m looking to collaborate on ... nothing, sorry man
-
-🤔 I’m looking for help with ... kotlin
-
-💬 Ask me about ... food, movies, anything you want!
-
+🌱 I’m currently learning ... React, Node, javascript
+👯 I’m looking to collaborate on ... Front-end using React
+🤔 I’m looking for help with ... Vue, MySQL
+💬 Ask me about ... CSS, Html, JavaScript e React
 📫 How to reach me: ... emillysantiago89@gmail.com
-
 😄 Pronouns: ... She, please!
-
 ⚡ Fun fact: ... I'm trying to be vegan🌱
