@@ -1,31 +1,19 @@
 ## Front-End Developer🖥️
 
-### Hi there 👋
+## 💜 Hi, I'm <strong>{Emilly Santiago}!</strong>
 
-🌱 I’m currently learning ... React, Node, javascript
+> I'm Brazilian developer, currently living in Recife-PE. I graduated from the Federal University of Pernambuco in 2019. My academic and professional background it's in mechanical engineering, but I've been working with some web programming languages using HTML, CSS, Javascript, React, Bootstrap, Context API. In fact, I'm student in the Dev course at Labenu, where I'm expanding my knowledge to become an Full Stack developer. Now, I'm learning about back-end and using tools like node.js, python, mySQL, postman. 
 
-👯 I’m looking to collaborate on ... Front-end using React
+🔭 So far my last project was a static netflix page. It was designed for a selection process for a front-end developer using react, styled-components, material-ui. I called it netflixClone and it can be found in my repository.
 
-🤔 I’m looking for help with ... Vue, MySQL
-
-💬 Ask me about ... CSS, Html, JavaScript e React
-
-📫 How to reach me: ... emillysantiago89@gmail.com
-
-😄 Pronouns: ... She
-
-⚡ Fun fact: ... I'm trying to be vegan🌱
-
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
-
-> Faça uma breve aprensentação sobre você e a sua área.
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+I’m someone with a lot of dedication, and I love the possibility of helping to improve the world 👯
+💬 Feel free to contact me!
+[![Gmail Badge](https://img.shields.io/badge/-emillysantiago89@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emillysantiago89@gmail.com)](mailto:emillysantiago89@gmail.com)
+[![Linkedin: EMILLY](https://img.shields.io/badge/-EMILLY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emillysantiago23/)](https://www.linkedin.com/in/emillysantiago23/)
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -35,12 +23,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emillysant&show_icons=true)
